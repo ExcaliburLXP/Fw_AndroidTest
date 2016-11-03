@@ -1,0 +1,13 @@
+1
+	A:	
+		Select  m.MusicName as MusicName , m.Singer as Singer,
+		a.DownloadUrl as DownloadUrl, a.Size as Size 
+		From  Music m  left join  Address a   on  m.MusicId==a.MusicId ;				   
+2 
+
+    SortFilejava
+3
+	SortFilejava
+	
+4   
+	Test Android
